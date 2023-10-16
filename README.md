@@ -16,7 +16,8 @@
   <img align="center" alt="ttvo-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ttvo-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ttvo-Python" title="Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ttvo-Python" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ttvo-mysql" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ttvo-excel" title="Microsoft Excel" height="30" width="40" src="https://github.com/estevao-luiz/estevao-luiz/assets/126028553/979156c3-2da4-47f3-8b39-c0ec0033f1c6">
   <img width=100cm height=100cm align="right" alt="ttvo-gif" src="https://github.com/estevao-luiz/estevao_luiz/assets/126028553/a4aa2274-a9fe-4e0e-8274-987fa2ce9ca5">
 </div><br>
 
