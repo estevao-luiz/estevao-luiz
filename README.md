@@ -36,4 +36,8 @@
   <a href="https://www.linkedin.com/in/estevao-luiz2022" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+##
 
+## Portifolio Contents:
+
+1. [Problema de 3 corpos](https://github.com/estevao-luiz/problema_3_corpos)
