@@ -6,10 +6,12 @@
 
 . 👨‍🦱 Pronomes: Ele/Dele.
 
+
+
 <div><br>
   <a href="https://github.com/estevao-luiz">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=estevao-luiz&show_icons=True&theme=tokyonight">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevao-luiz&theme=tokyonight">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevao-luiz&layout=compact&theme=tokyonight">
 </div><br>
 
 <div style="display: inline_block"><br>
