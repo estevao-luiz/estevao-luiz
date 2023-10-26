@@ -15,8 +15,6 @@
 </div><br>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="ttvo-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="ttvo-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="ttvo-Python" title="Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="ttvo-mysql" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="ttvo-excel" title="Microsoft Excel" height="30" width="40" src="https://github.com/estevao-luiz/estevao-luiz/assets/126028553/979156c3-2da4-47f3-8b39-c0ec0033f1c6">
