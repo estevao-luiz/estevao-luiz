@@ -1,11 +1,6 @@
-## Olá! Me chamo Estevão Luiz
+## Olá, me chamo Estevão Luiz!!!
 
-. 🔭 Interessado em: trabalhar na área de Dados:
-
-. 🌱 Estudando: Databases;
-
-. 👨‍🦱 Pronomes: Ele/Dele.
-
+. 🌱 Estudando: Modelagem Numérica; Meteorologia Ambiental;
 
 
 <div><br>
